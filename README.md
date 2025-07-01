@@ -51,15 +51,6 @@ dmart/
 ├── pythonProject17/
 ├── ... (your other files)
 🔄 Customization
-You can update this README to describe:
-
-What your app does in detail
-
-Any installation steps
-
-How to run tests
-
-Screenshots if you want to show your UI
 
 ✨ Contribution
 Feel free to fork this repository and contribute via Pull Requests.
